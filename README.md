@@ -1,4 +1,12 @@
-# Thesis matching
+# 🎓 Thesis Matching — Fair Topic Assignment for Students
+
+Match students to thesis topics **fairly and optimally** using two classic optimization problems:  
+- 📊 **Linear Sum Assignment Problem (LSAP):** maximize overall satisfaction (minimize total rank)  
+- ⚖️ **Linear Bottleneck Assignment Problem (LBAP):** maximize fairness for the least satisfied student  
+
+
+
+## Theory
 
 In a class with $N$ students, there is a set of $M$ topics to choose from. Each student must receive exactly **one** topic, each topic may be taken by **at most one** student.
 
